@@ -20,7 +20,7 @@ so you only have to hit the ball around the to bricks to win and up to the next 
 
 # team members :
 * Noura Alharbi
-* Rawan Flifel
+* Rawan Flifel (https://github.com/rawankhaled2)
 * Ruba althekri
 * Worod Alrashidi
 
