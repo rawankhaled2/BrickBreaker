@@ -22,7 +22,7 @@ so you only have to hit the ball around the to bricks to win and up to the next 
 * Noura Alharbi (https://github.com/N0rah1)
 * Rawan Flifel (https://github.com/rawankhaled2)
 * Ruba althekri
-* Worod Alrashidi
+* Worod Alrashidi (https://github.com/Worod44)
 
 
 
