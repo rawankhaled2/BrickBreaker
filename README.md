@@ -1,7 +1,7 @@
 # BrickBreaker
-A project for IT214 Course, presented to Dr/ Meshaiel Al-Sheail.
+A project for IT214 Course, presented to Ms. Meshaiel Al-Sheail.
 
-Developing ror the Brick Breaker Game.
+Developing for the Brick Breaker Game.
 
 ## Brick Breaker game :
 Click to launch the ball, then move your arrows to control the paddle. 
